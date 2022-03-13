@@ -12,4 +12,6 @@ My name is EmotionChild and I am a Discord bot developer
 
   <img align="left" alt="EmotionChild's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EmotionChild&theme=github_dark&show_icons=true" />
 
+  <img align="left" alt="EmotionChild's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmotionChild&layout=compact">
+
 </details>
