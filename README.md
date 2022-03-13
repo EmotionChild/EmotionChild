@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is EmotionChild and I am a Discord bot developer
+My name is EmotionChild and I am a Discord bot developer
 
 <!-- BLOG-POST-LIST:START -->
 - [Updated links](https://blog.elliebot.net/updated-links)
@@ -10,6 +10,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EmotionChild&theme=github_dark&show_icons=true" />
+  <img align="left" alt="EmotionChild's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EmotionChild&theme=github_dark&show_icons=true" />
 
 </details>
