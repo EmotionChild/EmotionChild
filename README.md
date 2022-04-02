@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is EmotionChild and I am a Discord bot developer
 
+### Below are latest links to the Ellie Bot project blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Updated links](https://blog.elliebot.net/updated-links)
 - [State of development](https://blog.elliebot.net/state-of-development)
