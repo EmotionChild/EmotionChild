@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is EmotionChild and I am a Discord bot developer
+My name is EmotionChild and I am a Discord bot developer (among other things)
 
 ### Below are latest links to the Ellie Bot project blog posts
 
