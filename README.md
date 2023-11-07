@@ -7,8 +7,8 @@ I don't really do things on GitHub anymore I use a site I host called Toastielab
 ### Below are latest links to the Ellie Bot project blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Update on things](https://blog.toastiet0ast.com/emotionchild-update)
-- [Welcome to my blog](https://blog.toastiet0ast.com/welcome)
+- [Update on things](https://blog.emotionchild.com/emotionchild-update)
+- [Welcome to my blog](https://blog.emotionchild.com/welcome)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
