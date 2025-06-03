@@ -7,8 +7,9 @@ I don't really do things on GitHub anymore I use a site I host called Toastielab
 ### Below are latest links to my latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New projects](https://blog.toastiet0ast.com/posts/new-projects/)
-- [Update on things](https://blog.toastiet0ast.com/posts/update-on-things/)
+- [Starting fresh](https://toastiet0ast.com/blog/starting-fresh)
+- [New projects](https://toastiet0ast.com/blog/new-things)
+- [Update on things](https://toastiet0ast.com/blog/where-i-have-been)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
